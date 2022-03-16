@@ -1,1 +1,3 @@
-server-motd: 'motd'
+profile_title: 'Профиль'
+profile_name: '§6Ваш профиль'
+profile_lore: '§7Нажмите, чтобы открыть'
